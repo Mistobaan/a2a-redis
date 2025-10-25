@@ -253,7 +253,7 @@ await config_store.delete_info("task123")  # Delete all
 
 ```bash
 # Clone the repository
-git clone https://github.com/a2aproject/a2a-redis.git
+git clone https://github.com/redis-developer/a2a-redis.git
 cd a2a-redis
 
 # Create virtual environment and install dependencies
